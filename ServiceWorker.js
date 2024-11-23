@@ -1,4 +1,4 @@
-const cacheName = "OneProg Games-Тёмная тайга-0.15";
+const cacheName = "OneProg Games-Тёмная тайга-0.15.0";
 const contentToCache = [
     "Build/TheDarkTaiga.loader.js",
     "Build/TheDarkTaiga.framework.js",
